@@ -8,7 +8,8 @@
 - [x] Scaffold the Project
   - Summary: Vite React project already present in workspace.
 
-- [ ] Customize the Project
+- [x] Customize the Project
+	- Summary: Implemented resume builder UI, components, parsing, and PDF export.
 	<!--
 	Verify that all previous steps have been completed successfully and you have marked the step as completed.
 	Develop a plan to modify codebase according to user requirements.
@@ -16,10 +17,12 @@
 	Skip this step for "Hello World" projects.
 	-->
 
-- [ ] Install Required Extensions
+- [x] Install Required Extensions
+	- Summary: No extensions required.
 	<!-- ONLY install extensions provided mentioned in the get_project_setup_info. Skip this step otherwise and mark as completed. -->
 
-- [ ] Compile the Project
+- [x] Compile the Project
+	- Summary: npm run build completed successfully.
 	<!--
 	Verify that all previous steps have been completed.
 	Install any missing dependencies.
@@ -27,7 +30,8 @@
 	Check for markdown files in project folder for relevant instructions on how to do this.
 	-->
 
-- [ ] Create and Run Task
+- [x] Create and Run Task
+	- Summary: No additional tasks needed.
 	<!--
 	Verify that all previous steps have been completed.
 	Check https://code.visualstudio.com/docs/debugtest/tasks to determine if the project needs a task. If so, use the create_and_run_task to create and launch a task based on package.json, README.md, and project structure.
